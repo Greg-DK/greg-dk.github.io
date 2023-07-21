@@ -10,7 +10,7 @@ This led to my discovery of Jekyll and Github Pages. I was already using Github 
 
 1. Ensure you've got a Github account - sign up [here](https://github.com/) if you don't
 2. Find a template for your Jekyll blog, I used [this](https://jekyllthemes.io/) website to do that, and just chose a free template
-3. Fork the repositor, or use a templated repo if they provide one. 
+3. Fork the repository, or use a template if they provide one. 
 4. Setup the config.yaml file to point at your github repo
 5. That's it your blog should be hosted. 
 
