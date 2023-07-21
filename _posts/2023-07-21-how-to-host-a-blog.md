@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Effortlessly Host Your Blog: A Journey with Jekyll and Github Pages
+title: Effortlessly Host Your Blog - A Journey with Jekyll and Github Pages
 categories: [Github, Portfolio, Jekyll, DNS, Domains]
 ---
 
