@@ -16,7 +16,7 @@ As I already had experience in some of the CISSP domains I decided to start my s
 
 As the first week rolled in I set clear study goals and dedicated several hours each day to immerse myself in CISSP knowledge. My trusty companion was the Official (ISC)² CISSP Study Guide, which provided a solid foundation across all domains. I focused on the areas where I had scored poorly in the exam.
 
-During this week, I also turned to LinkedIn Learning for supplementary materials. The video course is done by [Mike Chapple](certmike.com) and I just watched it from beginning to end playing it on a second screen while I multitasked. 
+During this week, I also turned to LinkedIn Learning for supplementary materials. The video course is done by [Mike Chapple](www.certmike.com) and I just watched it from beginning to end playing it on a second screen while I multitasked. 
 
 ### Week 2
 
