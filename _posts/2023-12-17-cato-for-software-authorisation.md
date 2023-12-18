@@ -1,5 +1,3 @@
-**Title: cATO For Software Authorisation
-
 ---
 
 layout: post
